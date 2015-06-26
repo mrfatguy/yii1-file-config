@@ -27,7 +27,7 @@ return array
         ...
         'config'=>array
         (
-            'class'=>'ext.FileConfig',
+            'class'=>'ext.FileConfig.FileConfig',
             'configFile'=>'configuration/config.values',
         ),
         ...
