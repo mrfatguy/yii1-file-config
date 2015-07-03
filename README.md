@@ -1,6 +1,6 @@
 # Yii File Config
 
-**This project ABANDONED! There is no wiki, issues and no support. There will be no future updates. Unfortunately, you're on your own.**
+**This project ABANDONED, because I don't code in Yii1 anymore! There is no wiki, issues and no support. There will be no future updates. Unfortunately, you're on your own.**
 
 This extension allows you to store configuration entries needed by your application in a file. It provides functions for reading and writing this configuration strings.
 
@@ -96,4 +96,4 @@ On **8 December 2010** the behaviour of this extension has changed slightly for 
 
 On **6 December 2010** this extension was initially released.
 
-**This project ABANDONED! There is no wiki, issues and no support. There will be no future updates. Unfortunately, you're on your own.**
+**This project ABANDONED, because I don't code in Yii1 anymore! There is no wiki, issues and no support. There will be no future updates. Unfortunately, you're on your own.**
